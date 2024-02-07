@@ -18,6 +18,7 @@ A mod that features improvements and difficulty changes to Lethal Company.
 <br>
 <details>
   <summary>All features (spoilers):</summary>
+  <br>
   
   - MoreCompany for servers of up to 50 players
   - Bracken remodelled to Freddy Fazbear
@@ -77,6 +78,7 @@ A mod that features improvements and difficulty changes to Lethal Company.
   - Pathfinding and Proximity Chat Lag fixes
 
 </details>
+<br>
 
 # Installation
 1. Install [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest)
