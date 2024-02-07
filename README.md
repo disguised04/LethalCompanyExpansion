@@ -15,15 +15,6 @@ A mod that features improvements and difficulty changes to Lethal Company.
 - Tweaks and Quality of Life Improvements
 - And much more...
 
-
-# Installation
-1. Install [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest)
-    - Extract the zip and place the contents inside your Lethal Company steam game folder
-    - Run game once with BepInEx installed to generate folders/files
-    
-2. Drop the ['config', 'patchers' and 'plugins' Folder](https://github.com/disguised04/LethalCompany/releases/latest/download/DisguisedMod.zip) inside of the BepInEx folder in the Lethal Company steam game folder
-
-
 <details>
   <summary>All features (spoilers):</summary>
 - MoreCompany for servers of up to 50 players
@@ -83,3 +74,10 @@ A mod that features improvements and difficulty changes to Lethal Company.
 - Hide the 'Mod List' popup that shows when a player joins
 - Pathfinding and Proximity Chat Lag fixes
 </details>
+
+# Installation
+1. Install [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest)
+    - Extract the zip and place the contents inside your Lethal Company steam game folder
+    - Run game once with BepInEx installed to generate folders/files
+    
+2. Drop the ['config', 'patchers' and 'plugins' Folder](https://github.com/disguised04/LethalCompany/releases/latest/download/DisguisedMod.zip) inside of the BepInEx folder in the Lethal Company steam game folder
