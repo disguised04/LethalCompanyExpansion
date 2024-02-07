@@ -15,6 +15,7 @@ A mod that features improvements and difficulty changes to Lethal Company.
 - Tweaks and Quality of Life Improvements
 - And much more...
 
+<br>
 <details>
   <summary>All features (spoilers):</summary>
   
