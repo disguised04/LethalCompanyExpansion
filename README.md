@@ -17,6 +17,7 @@ A mod that features improvements and difficulty changes to Lethal Company.
 
 <details>
   <summary>All features (spoilers):</summary>
+  
   - MoreCompany for servers of up to 50 players
   - Bracken remodelled to Freddy Fazbear
   - Metal Pipe sound on metallic item drop
@@ -73,6 +74,7 @@ A mod that features improvements and difficulty changes to Lethal Company.
   - Fit more characters into transmissions with the signal translator
   - Hide the 'Mod List' popup that shows when a player joins
   - Pathfinding and Proximity Chat Lag fixes
+
 </details>
 
 # Installation
