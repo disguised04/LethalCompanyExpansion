@@ -63,7 +63,6 @@ A mod that features improvements and difficulty changes to Lethal Company.
   - More monitors in the ship to display extra information
   - The dropship arrives faster
   - Now face away from the door when going through a fire exit
-  - All moons are free to go to
   - Seamless skipping of intro/menu screens
   - Patches out the delay when jumping
   - Create additional save slots
