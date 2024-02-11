@@ -56,8 +56,13 @@ A mod that features improvements and difficulty changes to Lethal Company.
   - Health displayed in HUD
   - Look all the way down
   - Chat Commands
+  - Terminal Commands auto complete on tab
+  - Terminal Command history using arrow keys
+  - Roll over excess credits into the next quota
+  - Hide Chat when not in use
   - Players can join whenever the ship is in orbit
   - Jester plays the song 'Freebird' when winding up and chasing
+  - Airhorn plays 'Whistle' sound effect
   - Hoarding bugs can use items
   - Hoarding bugs drop items held on death
   - Flies spawn over dead bodies
@@ -87,5 +92,4 @@ A mod that features improvements and difficulty changes to Lethal Company.
     - Extract the zip and place the contents inside your Lethal Company steam game folder
     - Run game once with BepInEx installed to generate folders/files
     
-2. Install [DisguisedMods](https://github.com/disguised04/LethalCompany/releases/latest/download/DisguisedMod.zip)
-    - Extract the zip and copy the 'config', 'patchers' and 'plugins' folders from inside the extracted zip to the BepInEx folder in the Lethal Company steam game folder. Delete the folders that are already there.
+2. Drop the ['config', 'patchers' and 'plugins' Folder](https://github.com/disguised04/LethalCompany/releases/latest/download/DisguisedMod.zip) inside of the BepInEx folder in the Lethal Company steam game folder
