@@ -92,4 +92,5 @@ A mod that features improvements and difficulty changes to Lethal Company.
     - Extract the zip and place the contents inside your Lethal Company steam game folder
     - Run game once with BepInEx installed to generate folders/files
     
-2. Drop the ['config', 'patchers' and 'plugins' Folder](https://github.com/disguised04/LethalCompany/releases/latest/download/DisguisedMod.zip) inside of the BepInEx folder in the Lethal Company steam game folder
+2. Install [DisguisedMods](https://github.com/disguised04/LethalCompany/releases/latest/download/DisguisedMod.zip)
+    - Extract the zip and copy the 'config', 'patchers' and 'plugins' folders from inside the extracted zip to the BepInEx folder in the Lethal Company steam game folder. Delete the folders that are already there.
