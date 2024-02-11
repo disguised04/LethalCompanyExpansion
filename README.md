@@ -48,6 +48,9 @@ A mod that features improvements and difficulty changes to Lethal Company.
   - Moon Heat increases the more you visit a moon
   - Improved Spray Paint
   - Ship Loot Calculator
+  - Crosshair in center of screen
+  - Cats spawn in the dungeons
+  - Better Stamina
   - Flashlight Toggle Hotkey (default F)
   - Walkie Hotkey (default R)
   - Health displayed in HUD
