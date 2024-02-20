@@ -21,6 +21,7 @@ A mod that features improvements and difficulty changes to Lethal Company.
   <br>
   
   - MoreCompany for servers of up to 50 players
+  - VR Support
   - Bracken remodelled to Freddy Fazbear
   - Metal Pipe sound on metallic item drop
   - Yippee Hoarding Bugs
@@ -41,8 +42,6 @@ A mod that features improvements and difficulty changes to Lethal Company.
   - Add the 'Geiger Counter' item which can be used to find the apparatus
   - New items and decorations
   - Push your friends using the interaction key
-  - Unique events each time you land on a moon
-  - Increased monster spawn rates
   - All moons can spawn all enemies
   - Increased loot drop rates
   - Moon Heat increases the more you visit a moon
