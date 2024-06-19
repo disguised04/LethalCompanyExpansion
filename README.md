@@ -1,7 +1,7 @@
-# Disguised Mods
+# Disguised Lethal Company Expansion
 ![lethal company logo](https://tawk.link/637ce062b0d6371309d07b8c/kb/attachments/InodhMEIMa.jpg) ![disguised icon](https://tawk.link/637ce062b0d6371309d07b8c/kb/attachments/jxl26fMNy6.png)
 
-A mod that features improvements and difficulty changes to Lethal Company.
+A modpack which features new content, expansions and difficulty changes to Lethal Company.
 
 
 # Features
@@ -10,9 +10,9 @@ A mod that features improvements and difficulty changes to Lethal Company.
 - Emotes
 - New Moons
 - New Enemies
-- Events
-- Lots of new Scrap to collect!
+- New Scrap to collect
 - Tweaks and Quality of Life Improvements
+- VR Support
 - And much more...
 
 <br>
@@ -27,7 +27,7 @@ A mod that features improvements and difficulty changes to Lethal Company.
   - Yippee Hoarding Bugs
   - Emotes
   - Suits
-  - 15 new moons
+  - New moons
   - New Interiors for the moons
   - Coilheads turn to stare at you when looking at them
   - Laser Pointers detonate landmines
@@ -91,5 +91,5 @@ A mod that features improvements and difficulty changes to Lethal Company.
     - Extract the zip and place the contents inside your Lethal Company steam game folder
     - Run game once with BepInEx installed to generate folders/files
     
-2. Install [DisguisedMods](https://github.com/disguised04/LethalCompany/releases/latest/download/DisguisedMod.zip)
+2. Install [DisguisedLCExpansion](https://github.com/disguised04/LethalCompanyExpansion/releases/latest/download/DisguisedLCExpansion.zip)
     - Extract the zip and copy the 'config', 'patchers' and 'plugins' folders from inside the extracted zip to the BepInEx folder in the Lethal Company steam game folder. Delete the folders that are already there.
