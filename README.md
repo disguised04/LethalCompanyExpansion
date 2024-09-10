@@ -34,17 +34,12 @@ A modpack which features new content, expansions and difficulty changes to Letha
   - Removes the mask from the mimic
   - Mimics take the appearance of players
   - Mimics no longer raise their hands
-  - Bodies in close proximity of a mask have a chance of being possessed
-  - Fake Fire Escapes may make you their lunch
+  - Mimic Fire Escapes
   - Ability to spectate enemies when dead
   - Monsters mimic the voices of your friends
   - The facility will begin to meltdown if the apparatus is taken
-  - Add the 'Geiger Counter' item which can be used to find the apparatus
   - New items and decorations
   - Push your friends using the interaction key
-  - All moons can spawn all enemies
-  - Increased loot drop rates
-  - Moon Heat increases the more you visit a moon
   - Improved Spray Paint
   - Ship Loot Calculator
   - Crosshair in center of screen
@@ -76,12 +71,9 @@ A modpack which features new content, expansions and difficulty changes to Letha
   - Rename saves
   - Discord Rich Presence support in-game
   - Remove the limit of items that can be placed on the deposit desk at the company building
-  - Additional graphics settings such as resolution, anti-aliasing, fog quality etc
   - Muted indicator and customisable toggle mute hotkey
   - Displays an icon when detecting voice activity
   - Fit more characters into transmissions with the signal translator
-  - Hide the 'Mod List' popup that shows when a player joins
-  - Pathfinding and Proximity Chat Lag fixes
 
 </details>
 <br>
@@ -92,4 +84,6 @@ A modpack which features new content, expansions and difficulty changes to Letha
     - Run game once with BepInEx installed to generate folders/files
     
 2. Install [DisguisedLCExpansion](https://github.com/disguised04/LethalCompanyExpansion/releases/latest/download/DisguisedLCExpansion.zip)
-    - Extract the zip and copy the 'config', 'patchers' and 'plugins' folders from inside the extracted zip to the BepInEx folder in the Lethal Company steam game folder. Delete the folders that are already there.
+    - Navigate to the BepInEx folder inside the Lethal Company steam game folder.
+    - Delete the folders apart from 'core' and 'cache' that are already there.
+    - Extract the zip and copy the 'core', 'config', 'patchers' and 'plugins' folders from inside the extracted zip to the BepInEx folder.
